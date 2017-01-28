@@ -13,6 +13,7 @@
 		1490C2821E3D26AB0075C2EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1490C2801E3D26AB0075C2EC /* Main.storyboard */; };
 		1490C2841E3D26AB0075C2EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1490C2831E3D26AB0075C2EC /* Assets.xcassets */; };
 		1490C2871E3D26AB0075C2EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1490C2851E3D26AB0075C2EC /* LaunchScreen.storyboard */; };
+		1490C28F1E3D28830075C2EC /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 1490C28E1E3D28830075C2EC /* apple.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1490C2831E3D26AB0075C2EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1490C2861E3D26AB0075C2EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1490C2881E3D26AB0075C2EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1490C28E1E3D28830075C2EC /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = apple.png; path = ../../../../Downloads/apple.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				1490C27E1E3D26AB0075C2EC /* ViewController.m */,
 				1490C2801E3D26AB0075C2EC /* Main.storyboard */,
 				1490C2831E3D26AB0075C2EC /* Assets.xcassets */,
+				1490C28E1E3D28830075C2EC /* apple.png */,
 				1490C2851E3D26AB0075C2EC /* LaunchScreen.storyboard */,
 				1490C2881E3D26AB0075C2EC /* Info.plist */,
 				1490C2771E3D26AB0075C2EC /* Supporting Files */,
@@ -139,6 +142,7 @@
 			files = (
 				1490C2871E3D26AB0075C2EC /* LaunchScreen.storyboard in Resources */,
 				1490C2841E3D26AB0075C2EC /* Assets.xcassets in Resources */,
+				1490C28F1E3D28830075C2EC /* apple.png in Resources */,
 				1490C2821E3D26AB0075C2EC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -273,6 +277,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Homework_2_1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "hLam.Homework-2-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -284,6 +289,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Homework_2_1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "hLam.Homework-2-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
