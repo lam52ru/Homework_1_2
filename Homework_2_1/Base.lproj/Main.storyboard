@@ -24,6 +24,7 @@
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="z56-Q9-f3w">
                                 <rect key="frame" x="16" y="155" width="343" height="307"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.69297517088102145" green="0.84871357761314037" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </imageView>
                         </subviews>
                         <color key="tintColor" red="0.57651472896828726" green="1" blue="0.99296667553036755" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
